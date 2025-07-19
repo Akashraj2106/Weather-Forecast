@@ -1,9 +1,8 @@
 🌦️ Weather Forecast Web App
 A responsive weather forecast web page built using HTML, CSS, and JavaScript that fetches real-time weather data from the OpenWeatherMap API.
-<br>
-📸 Screenshot
 
-(Replace with your own screenshot)
+  ![Weather Forecast UI](screenshot.png "Weather Forecast Web App Screenshot")
+
 
 🚀 Features
 🌍 Search weather by city name
@@ -16,8 +15,6 @@ A responsive weather forecast web page built using HTML, CSS, and JavaScript tha
 
 🔌 Fetches real-time data using OpenWeatherMap API
 
-<br>
-
 🛠️ Technologies Used
 HTML5
 
@@ -27,11 +24,10 @@ JavaScript (Vanilla)
 
 OpenWeatherMap API
 
-<br>
-
 🧪 Live Demo
 (Host on GitHub Pages / Netlify and paste the link here)
-Live Demo 🔗
+[Google](https://akashraj2106.github.io/Weather-Forecast/ "Go to Google")
+
 
 📝 How to Use
 Clone the repository
@@ -53,21 +49,3 @@ javascript
 Copy
 Edit
 const apiKey = 'YOUR_API_KEY';
-📁 Project Structure
-bash
-Copy
-Edit
-weather-app/
-│
-├── index.html        # Main HTML page
-├── style.css         # Styling
-├── script.js         # JavaScript logic
-└── README.md         # Project documentation
-📌 To-Do / Improvements
-Add 5-day forecast
-
-Add search history
-
-Use Geolocation API for current weather
-
-Add loading spinner / error handling UI
