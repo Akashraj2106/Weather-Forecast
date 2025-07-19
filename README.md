@@ -3,6 +3,11 @@ A responsive weather forecast web page built using HTML, CSS, and JavaScript tha
 
   ![Weather Forecast UI](screenshot.png "Weather Forecast Web App Screenshot")
 
+  <p >
+  <img src="screenshot.png" alt="Weather App UI" width="400">
+  </p>
+
+
 
 🚀 Features
 🌍 Search weather by city name
@@ -15,7 +20,7 @@ A responsive weather forecast web page built using HTML, CSS, and JavaScript tha
 
 🔌 Fetches real-time data using OpenWeatherMap API
 
-🛠️ Technologies Used
+🛠️ Technologies Used <br>
 HTML5
 
 CSS3
@@ -26,7 +31,7 @@ OpenWeatherMap API
 
 🧪 Live Demo
 (Host on GitHub Pages / Netlify and paste the link here)
-[Google](https://akashraj2106.github.io/Weather-Forecast/ "Go to Google")
+[Google](https://akashraj2106.github.io/Weather-Forecast/ "Go to Weather-Forecast web-site")
 
 
 📝 How to Use
@@ -35,7 +40,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/yourusername/Weather-Forecast.git
 cd weather-app
 Open index.html in your browser
 
